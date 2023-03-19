@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "ai-cuisine",
+    "slug": "ai-cuisine",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "ai-cuisine"
+}
