@@ -3,9 +3,7 @@
     "name": "ai-cuisine",
     "slug": "ai-cuisine",
     "version": "1.0.0",
-    "assetBundlePatterns": [
-      "**/*"
-    ]
+    "assetBundlePatterns": ["**/*"]
   },
   "name": "ai-cuisine"
 }
